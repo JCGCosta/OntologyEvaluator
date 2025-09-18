@@ -1,0 +1,9 @@
+http://www.mascem.gecad.isep.ipp.pt/ontologies/nordpool.owl#BlockOrder
+http://www.mascem.gecad.isep.ipp.pt/ontologies/nordpool.owl#BuyOrder
+http://www.mascem.gecad.isep.ipp.pt/ontologies/nordpool.owl#Elspot
+http://www.mascem.gecad.isep.ipp.pt/ontologies/nordpool.owl#ElspotSession
+http://www.mascem.gecad.isep.ipp.pt/ontologies/nordpool.owl#FlexibleHourlyOrder
+http://www.mascem.gecad.isep.ipp.pt/ontologies/nordpool.owl#HourlyOrder
+http://www.mascem.gecad.isep.ipp.pt/ontologies/nordpool.owl#InvalidHourlyOrder
+http://www.mascem.gecad.isep.ipp.pt/ontologies/nordpool.owl#NordPool
+http://www.mascem.gecad.isep.ipp.pt/ontologies/nordpool.owl#SaleOrder

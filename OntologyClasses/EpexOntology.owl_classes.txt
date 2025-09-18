@@ -1,0 +1,8 @@
+http://www.mascem.gecad.isep.ipp.pt/ontologies/epex.owl#BlockOrder
+http://www.mascem.gecad.isep.ipp.pt/ontologies/epex.owl#BuyOrder
+http://www.mascem.gecad.isep.ipp.pt/ontologies/epex.owl#Day-Ahead
+http://www.mascem.gecad.isep.ipp.pt/ontologies/epex.owl#DayAheadSession
+http://www.mascem.gecad.isep.ipp.pt/ontologies/epex.owl#EPEX
+http://www.mascem.gecad.isep.ipp.pt/ontologies/epex.owl#HourlyOrder
+http://www.mascem.gecad.isep.ipp.pt/ontologies/epex.owl#InvalidHourlyOrder
+http://www.mascem.gecad.isep.ipp.pt/ontologies/epex.owl#SaleOrder

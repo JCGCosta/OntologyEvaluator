@@ -1,0 +1,7 @@
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets-results.owl#BidResult
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets-results.owl#BlockResult
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets-results.owl#FlexibleResult
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets-results.owl#HourlyResult
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets-results.owl#MarketPrice
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets-results.owl#PlayerResult
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets-results.owl#TradedPower

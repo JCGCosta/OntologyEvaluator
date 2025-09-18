@@ -1,0 +1,2 @@
+http://www.mascem.gecad.isep.ipp.pt/ontologies/call-for-proposal.owl#CallForProposal
+http://www.mascem.gecad.isep.ipp.pt/ontologies/call-for-proposal.owl#Proposal

@@ -1,0 +1,15 @@
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets.owl#Aggregator
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets.owl#Area
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets.owl#Bid
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets.owl#BilateralContract
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets.owl#Market
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets.owl#MarketOperator
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets.owl#MarketType
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets.owl#Offer
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets.owl#Operator
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets.owl#Period
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets.owl#Player
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets.owl#Power
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets.owl#Price
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets.owl#Session
+http://www.mascem.gecad.isep.ipp.pt/ontologies/electricity-markets.owl#SystemOperator

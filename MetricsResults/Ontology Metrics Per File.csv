@@ -1,0 +1,164 @@
+Ontology File;Number of Classes;Number of Object Properties;Number of Datatype Properties;Total Properties;Relationship Richness;Class Documentation Coverage;Property Documentation Coverage;Class Naming Consistency;Property Naming Consistency;Axiom Richness;Cardinality Restrictions;Properties with Domain;Properties with Range;Disjoint Classes;Functional Properties;Inverse Functional Properties;SomeValuesFrom Restrictions;AllValuesFrom Restrictions
+aid-em.owl;52;7;37;44;0.4583333333333333;0.21153846153846154;0.0;0.9423076923076923;0.9318181818181818;3.5520833333333335;38;0;0;0;39;0;10;0
+call-for-proposal.owl;2;1;0;1;0.3333333333333333;1.0;1.0;1.0;1.0;4.0;2;0;0;0;1;0;0;0
+electricity-markets-results.owl;7;3;6;9;0.5625;1.0;0.0;1.0;1.0;6.6875;13;0;1;13;6;1;4;0
+ElectricityMarkets.owl;15;22;15;37;0.7115384615384616;1.0;0.0;1.0;1.0;4.423076923076923;36;0;2;1;19;3;10;0
+em-kpi-1_1.owl;162;125;13;138;0.46;0.8209876543209876;0.9855072463768116;0.7592592592592593;0.9855072463768116;3.8766666666666665;42;84;78;3;44;32;94;0
+EpexOntology.owl;8;0;4;4;0.3333333333333333;1.0;0.0;0.875;1.0;5.416666666666667;8;0;0;1;4;0;3;0
+MibelOntology.owl;28;7;3;10;0.2631578947368421;0.6785714285714286;0.0;0.9285714285714286;1.0;4.131578947368421;23;0;0;4;2;1;5;0
+NordPool.owl;9;1;7;8;0.47058823529411764;1.0;0.0;1.0;1.0;5.352941176470588;13;0;0;1;8;0;3;0
+OEMA.owl;113;35;13;48;0.2981366459627329;0.1415929203539823;0.16666666666666666;0.7699115044247787;0.9166666666666666;2.875776397515528;0;23;23;2;3;0;37;2
+saref4ener.ttl;151;100;80;180;0.5438066465256798;0.8145695364238411;1.0;0.8410596026490066;1.0;3.8398791540785497;93;92;159;0;0;0;1;40
+SARGON.owl;158;54;60;114;0.41911764705882354;0.9556962025316456;1.0;0.9556962025316456;0.3157894736842105;4.834558823529412;11;0;4;4;0;0;175;37
+DABGEO\1-common-domain layer\actor\Actor.owl;2;1;2;3;0.6;1.0;1.0;1.0;1.0;3.4;0;1;3;0;0;0;0;0
+DABGEO\1-common-domain layer\buildingparameters\BuildingParameters.owl;2;1;0;1;0.3333333333333333;0.5;1.0;1.0;1.0;3.6666666666666665;0;1;1;0;0;0;1;0
+DABGEO\1-common-domain layer\buildingstructure\BuildingStructure.owl;29;2;0;2;0.06451612903225806;0.9310344827586207;1.0;0.9655172413793104;1.0;2.096774193548387;0;1;1;0;0;0;0;0
+DABGEO\1-common-domain layer\ders\DERs.owl;12;0;0;0;0.0;1.0;0.0;1.0;0.0;2.25;0;0;0;0;0;0;0;0
+DABGEO\1-common-domain layer\device\Device.owl;2;1;2;3;0.6;0.5;0.3333333333333333;1.0;1.0;2.6;0;1;1;0;0;0;0;0
+DABGEO\1-common-domain layer\deviceoperation\DeviceOperation.owl;8;12;0;12;0.6;1.0;1.0;0.375;1.0;2.0;0;5;5;0;0;0;0;0
+DABGEO\1-common-domain layer\energyconsumptionsystems\EnergyConsumptionSystems.owl;56;1;1;2;0.034482758620689655;0.9821428571428571;0.0;1.0;1.0;2.1379310344827585;0;0;0;0;0;0;0;0
+DABGEO\1-common-domain layer\energymarketroles\EnergyMarketRoles.owl;3;2;0;2;0.4;1.0;1.0;1.0;1.0;2.8;0;1;1;0;0;0;0;0
+DABGEO\1-common-domain layer\energyparameter\EnergyParameter.owl;4;2;1;3;0.42857142857142855;0.25;0.6666666666666666;0.75;1.0;2.5714285714285716;1;1;1;0;0;0;0;0
+DABGEO\1-common-domain layer\energyusage\EnergyUsage.owl;62;5;3;8;0.11428571428571428;0.7741935483870968;0.375;0.8387096774193549;1.0;2.4285714285714284;0;0;0;2;0;0;2;0
+DABGEO\1-common-domain layer\environmentalfactors\EnvironmentalFactors.owl;6;1;0;1;0.14285714285714285;0.16666666666666666;1.0;0.6666666666666666;1.0;2.2857142857142856;1;0;1;0;0;0;0;0
+DABGEO\1-common-domain layer\externalfactors\ExternalFactors.owl;1;0;0;0;0.0;1.0;0.0;1.0;0.0;18.0;0;0;0;0;0;0;0;0
+DABGEO\1-common-domain layer\geometricalparameters\BuildingGeometricalParameters.owl;93;8;7;15;0.1388888888888889;0.8924731182795699;0.8666666666666667;0.9139784946236559;1.0;3.1666666666666665;21;7;11;0;1;0;11;0
+DABGEO\1-common-domain layer\infrastructure\Infrastructure.owl;77;2;1;3;0.0375;0.987012987012987;1.0;0.974025974025974;1.0;2.075;0;2;2;0;0;0;0;0
+DABGEO\1-common-domain layer\meteringactuation\MeteringActuation.owl;34;0;0;0;0.0;1.0;0.0;1.0;0.0;2.264705882352941;0;0;0;0;0;0;0;0
+DABGEO\1-common-domain layer\socioeconomicfactors\SocioEconomicFactors.owl;5;1;0;1;0.16666666666666666;0.2;1.0;0.6;1.0;2.3333333333333335;1;0;1;0;0;0;0;0
+DABGEO\1-common-domain layer\weather\Weather.owl;154;7;6;13;0.07784431137724551;0.43506493506493504;0.8461538461538461;0.5;1.0;4.263473053892215;18;7;9;0;7;1;74;22
+DABGEO\2-variant-domain layer\airconditioningsystems\AirConditioningSystems.owl;13;1;1;2;0.13333333333333333;0.9230769230769231;0.0;1.0;1.0;1.8666666666666667;0;0;0;0;0;0;0;0
+DABGEO\2-variant-domain layer\buildingenvironmentalparameters\BuildingEnvironmentalParameters.owl;89;29;26;55;0.3819444444444444;0.8426966292134831;0.9272727272727272;0.8764044943820225;1.0;3.8819444444444446;89;28;52;0;0;0;0;0
+DABGEO\2-variant-domain layer\buildingphysicalelements\BuildingPhysicalElements.owl;53;0;1;1;0.018518518518518517;0.9622641509433962;1.0;0.9811320754716981;1.0;2.0925925925925926;0;0;0;0;0;0;1;0
+DABGEO\2-variant-domain layer\cookingdevices\CookingDevices.owl;7;0;0;0;0.0;1.0;0.0;1.0;0.0;2.142857142857143;0;0;0;0;0;0;0;0
+DABGEO\2-variant-domain layer\devicestate\DeviceState.owl;98;8;3;11;0.10091743119266056;0.8367346938775511;0.7272727272727273;0.9183673469387755;0.9090909090909091;4.4495412844036695;7;6;4;3;0;0;30;18
+DABGEO\2-variant-domain layer\energyprovider\EnergyProvider.owl;11;0;0;0;0.0;1.0;0.0;1.0;0.0;2.272727272727273;0;0;0;0;0;0;0;0
+DABGEO\2-variant-domain layer\energystoragesystems\EnergyStorageSystems.owl;10;0;0;0;0.0;1.0;0.0;1.0;0.0;2.3;0;0;0;0;0;0;0;0
+DABGEO\2-variant-domain layer\entertainmentequipment\EntertainmentEquipment.owl;9;0;0;0;0.0;0.8888888888888888;0.0;1.0;0.0;2.111111111111111;0;0;0;1;0;0;0;0
+DABGEO\2-variant-domain layer\environmentalsensors\EnvironmentalSensors.owl;30;0;0;0;0.0;0.7;0.0;1.0;0.0;2.1;0;0;0;0;0;0;0;0
+DABGEO\2-variant-domain layer\fieldofapplication\FieldOfApplication.owl;34;3;0;3;0.08108108108108109;0.9705882352941176;0.6666666666666666;1.0;1.0;2.135135135135135;0;1;1;0;0;0;1;0
+DABGEO\2-variant-domain layer\generalusebrowngoods\GeneralUseBrownGoods.owl;18;0;0;0;0.0;0.9444444444444444;0.0;1.0;0.0;2.0;0;0;0;0;0;0;0;0
+DABGEO\2-variant-domain layer\generationsystemsperformance\GenerationSystemsPerformance.owl;3;12;0;12;0.8;0.0;0.5833333333333334;0.6666666666666666;1.0;2.6666666666666665;0;5;5;0;0;0;1;2
+DABGEO\2-variant-domain layer\individualuser\IndividualUser.owl;24;2;1;3;0.1111111111111111;0.5416666666666666;1.0;0.5833333333333334;1.0;3.814814814814815;0;2;2;0;0;0;11;0
+DABGEO\2-variant-domain layer\infrastructurelocation\InfrastructureLocation.owl;5;2;11;13;0.7222222222222222;0.8;1.0;1.0;1.0;2.388888888888889;0;10;10;0;0;0;0;0
+DABGEO\2-variant-domain layer\infrastructurepremise\InfrastructurePremise.owl;7;1;0;1;0.125;0.8571428571428571;1.0;1.0;1.0;2.25;0;1;1;0;0;0;0;0
+DABGEO\2-variant-domain layer\refrigerationdevices\RefrigerationDevices.owl;9;0;0;0;0.0;1.0;0.0;1.0;0.0;2.3333333333333335;0;0;0;0;0;0;0;0
+DABGEO\2-variant-domain layer\ventilationsystems\VentilationSystems.owl;13;0;0;0;0.0;1.0;0.0;1.0;0.0;2.076923076923077;0;0;0;0;0;0;0;0
+DABGEO\2-variant-domain layer\weatherreport\WeatherReport.owl;131;15;8;23;0.14935064935064934;0.29770992366412213;0.5652173913043478;0.7480916030534351;1.0;3.448051948051948;6;9;11;2;6;2;90;0
+DABGEO\3-domain-task layer\application_type\city_energy_performance_assessment\airpollutants\AirPollutants.owl;26;5;0;5;0.16129032258064516;0.7307692307692307;0.0;0.8461538461538461;1.0;2.7419354838709675;2;1;1;0;0;0;7;0
+DABGEO\3-domain-task layer\application_type\city_energy_performance_assessment\buildingenergyperformanceindicators\BuildingEnergyPerformanceIndicators.owl;12;0;0;0;0.0;1.0;0.0;1.0;0.0;2.1666666666666665;0;0;0;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\city_energy_performance_assessment\buildingenergyperformancerequirements\BuildingEnergyPerformanceRequirements.owl;23;2;0;2;0.08;1.0;1.0;0.9565217391304348;1.0;2.12;0;1;1;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\city_energy_performance_assessment\buildingorientation\BuildingOrientation.owl;11;1;0;1;0.08333333333333333;1.0;1.0;0.5454545454545454;1.0;2.25;0;1;1;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\city_energy_performance_assessment\buildingtypology\BuildingTypology.owl;8;2;0;2;0.2;1.0;1.0;1.0;1.0;2.1;0;1;0;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\city_energy_performance_assessment\climatetype\ClimateType.owl;9;0;0;0;0.0;1.0;0.0;1.0;0.0;2.2222222222222223;0;0;0;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\city_energy_performance_assessment\districtenergygeneration\DistrictEnergyGeneration.owl;4;0;0;0;0.0;1.0;0.0;1.0;0.0;2.5;0;0;0;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\city_energy_performance_assessment\efficiencyindicators\EfficiencyIndicators.owl;11;0;0;0;0.0;1.0;0.0;1.0;0.0;2.1818181818181817;0;0;0;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\city_energy_performance_assessment\emissionindicators\EmissionIndicators.owl;3;0;0;0;0.0;1.0;0.0;1.0;0.0;2.3333333333333335;0;0;0;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\city_energy_performance_assessment\energycostindicators\EnergyCostIndicators.owl;2;0;1;1;0.3333333333333333;1.0;1.0;1.0;0.0;3.0;0;1;1;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\city_energy_performance_assessment\energyperformanceindicators\EnergyPerformanceIndicators.owl;2;0;0;0;0.0;0.5;0.0;1.0;0.0;4.0;0;0;0;0;0;0;1;0
+DABGEO\3-domain-task layer\application_type\city_energy_performance_assessment\householdfactors\HouseholdFactors.owl;15;2;0;2;0.11764705882352941;0.8;0.0;1.0;1.0;2.3529411764705883;0;0;0;0;0;0;3;0
+DABGEO\3-domain-task layer\application_type\city_energy_performance_assessment\individualfactors\IndividualFactors.owl;15;2;1;3;0.16666666666666666;0.8666666666666667;0.0;1.0;1.0;2.1666666666666665;2;0;0;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\city_energy_performance_assessment\populationfactors\PopulationFactors.owl;19;2;1;3;0.13636363636363635;0.8947368421052632;0.0;1.0;1.0;3.9545454545454546;10;0;0;0;0;0;5;0
+DABGEO\3-domain-task layer\application_type\city_energy_performance_assessment\renewableenergyindicators\RenewableEnergyIndicators.owl;4;0;0;0;0.0;1.0;0.0;1.0;0.0;2.25;0;0;0;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\home_appliances_dr\appliancedemandresponse\ApplianceDemandResponse.owl;10;12;2;14;0.5833333333333334;0.4;0.6428571428571429;1.0;1.0;3.5;11;0;2;0;0;0;0;6
+DABGEO\3-domain-task layer\application_type\home_appliances_dr\appliancephase\AppliancePhases.owl;16;11;7;18;0.5294117647058824;0.75;1.0;1.0;1.0;4.882352941176471;22;3;8;0;0;0;0;10
+DABGEO\3-domain-task layer\application_type\home_appliances_dr\applianceworkingmode\ApplianceWorkingMode.owl;10;6;7;13;0.5652173913043478;0.9;1.0;1.0;1.0;5.0;16;0;5;0;0;0;0;7
+DABGEO\3-domain-task layer\application_type\home_appliances_dr\deviceflexibility\DeviceFlexibility.owl;10;15;24;39;0.7959183673469388;0.5;0.2564102564102564;1.0;1.0;1.4285714285714286;5;0;1;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\home_appliances_dr\devicepowerprofile\DevicePowerProfile.owl;58;14;23;37;0.3894736842105263;0.5172413793103449;0.7837837837837838;0.9482758620689655;1.0;4.28421052631579;54;1;17;0;0;0;6;21
+DABGEO\3-domain-task layer\application_type\home_appliances_dr\devicepreferences\DevicePreferences.owl;7;7;2;9;0.5625;0.7142857142857143;0.5555555555555556;1.0;1.0;2.5;6;0;0;0;0;0;1;0
+DABGEO\3-domain-task layer\application_type\home_energy_assessment_device_control\actuatoroperation\ActuatorOperation.owl;6;1;0;1;0.14285714285714285;0.0;0.0;0.5;1.0;14.857142857142858;0;0;0;0;0;0;33;0
+DABGEO\3-domain-task layer\application_type\home_energy_assessment_device_control\buildingelementsensors\BuildingElementSensors.owl;4;0;0;0;0.0;0.75;0.0;1.0;0.0;2.5;0;0;0;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\home_energy_assessment_device_control\buildingelementsstructure\BuildingElementsStructure.owl;29;15;11;26;0.4727272727272727;0.10344827586206896;0.8461538461538461;0.6896551724137931;0.9615384615384616;4.672727272727273;16;11;16;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\home_energy_assessment_device_control\buildingstructuralparameters\BuildingStructuralParameters.owl;52;14;8;22;0.2972972972972973;0.8076923076923077;0.9090909090909091;0.7884615384615384;1.0;5.77027027027027;29;13;19;1;0;0;0;0
+DABGEO\3-domain-task layer\application_type\home_energy_assessment_device_control\consumptionsystemsfoa\ConsumptionSystemsfoa.owl;22;1;0;1;0.043478260869565216;0.0;1.0;0.7727272727272727;1.0;5.260869565217392;0;0;0;0;0;0;27;5
+DABGEO\3-domain-task layer\application_type\home_energy_assessment_device_control\energycapacity\EnergyCapacity.owl;4;0;1;1;0.2;0.75;1.0;1.0;1.0;4.6;0;0;0;0;0;0;4;0
+DABGEO\3-domain-task layer\application_type\home_energy_assessment_device_control\energyusagecost\EnergyUsageCost.owl;22;9;2;11;0.3333333333333333;0.5;0.6363636363636364;0.6363636363636364;1.0;3.6363636363636362;8;5;5;2;0;0;9;0
+DABGEO\3-domain-task layer\application_type\home_energy_assessment_device_control\equipmentdesignparameters\EquipmentDesignParameters.owl;52;17;18;35;0.40229885057471265;0.9230769230769231;0.8571428571428571;0.9423076923076923;1.0;5.448275862068965;22;16;32;0;0;0;26;0
+DABGEO\3-domain-task layer\application_type\home_energy_assessment_device_control\generationfunctionality\GenerationFunctionality.owl;1;0;1;1;0.5;0.0;1.0;1.0;1.0;3.0;0;1;1;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\home_energy_assessment_device_control\providedenergytype\ProvidedEnergyType.owl;21;3;1;4;0.16;0.047619047619047616;1.0;0.2857142857142857;1.0;3.88;0;4;4;0;0;0;4;1
+DABGEO\3-domain-task layer\application_type\home_energy_assessment_device_control\sensorconfiguration\SensorConfiguration.owl;13;2;0;2;0.13333333333333333;0.0;1.0;0.6153846153846154;1.0;5.133333333333334;1;1;1;0;0;0;15;2
+DABGEO\3-domain-task layer\application_type\home_energy_assessment_device_control\sensoroperation\SensorOperation.owl;4;1;0;1;0.2;0.0;0.0;0.0;1.0;31.6;12;0;0;0;0;0;49;0
+DABGEO\3-domain-task layer\application_type\home_energy_assessment_device_control\spacesenvironmental\SpacesEnvironmental.owl;0;3;1;4;1.0;0.0;1.0;0.0;1.0;3.75;1;3;4;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\home_energy_assessment_device_control\systemactors\SystemActors.owl;7;1;1;2;0.2222222222222222;0.7142857142857143;0.5;0.7142857142857143;1.0;3.6666666666666665;0;1;1;0;0;0;2;0
+DABGEO\3-domain-task layer\application_type\home_energy_assessment_device_control\userpreferences\UserPreferences.owl;34;12;0;12;0.2608695652173913;0.6176470588235294;0.5833333333333334;0.7647058823529411;1.0;3.391304347826087;0;8;5;2;0;0;16;1
+DABGEO\3-domain-task layer\application_type\home_energy_saving\savingpostsdiscussions\EnergySavingPostsDiscussions.owl;13;7;13;20;0.6060606060606061;1.0;1.0;1.0;1.0;2.5454545454545454;0;19;19;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\organization_energy_assessment\businessprocess\BusinessProcess.owl;18;6;0;6;0.25;0.8888888888888888;1.0;1.0;1.0;2.8333333333333335;0;8;6;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\organization_energy_assessment\businessprocessenergyperformance\BusinessProcessEnergyPerformance.owl;2;3;1;4;0.6666666666666666;1.0;1.0;1.0;1.0;3.6666666666666665;0;2;3;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\organization_energy_assessment\organizationactivity\OrganizationActivity.owl;27;4;6;10;0.2702702702702703;0.9259259259259259;1.0;1.0;1.0;2.5675675675675675;0;10;10;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\organization_energy_assessment\organizationinternalstructure\OrganizationInternalStructure.owl;1;1;0;1;0.5;1.0;1.0;1.0;1.0;6.5;0;1;1;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\organization_energy_assessment\organizationmembers\Organizationmembers.owl;5;1;5;6;0.5454545454545454;1.0;1.0;1.0;1.0;4.0;0;6;6;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\organization_energy_assessment\organizationtravel\OrganizationTravel.owl;2;1;1;2;0.5;1.0;1.0;1.0;1.0;5.75;0;2;2;0;0;0;0;0
+DABGEO\3-domain-task layer\application_type\organization_energy_saving_advice\energyreductionmeasures\EnergyReductionMeasures.owl;29;7;2;9;0.23684210526315788;0.8275862068965517;0.8888888888888888;0.7931034482758621;1.0;2.8157894736842106;2;8;6;0;0;0;7;0
+DABGEO\3-domain-task layer\smart_grid_scenario\building_district_city\populatedplaces\PopulatedPlaces.owl;40;0;0;0;0.0;0.975;0.0;1.0;0.0;2.125;0;0;0;0;0;0;0;0
+DABGEO\3-domain-task layer\smart_grid_scenario\building_district_city\weatherrelated\WeatherRelated.owl;3;0;0;0;0.0;1.0;0.0;1.0;0.0;2.6666666666666665;0;0;0;0;0;0;0;0
+DABGEO\3-domain-task layer\smart_grid_scenario\organization\organization\Organization.owl;44;0;0;0;0.0;1.0;0.0;0.9772727272727273;0.0;2.0681818181818183;0;0;0;0;0;0;0;0
+DABGEO\3-domain-task layer\smart_grid_scenario\smart_grid_dr\appliancecategory\ApplianceCategory.owl;5;1;0;1;0.16666666666666666;1.0;1.0;0.8;1.0;2.1666666666666665;0;1;1;0;0;0;0;0
+DABGEO\3-domain-task layer\smart_grid_scenario\smart_grid_dr\dersstate\DersState.owl;1;0;3;3;0.75;0.0;1.0;0.0;1.0;3.0;0;3;2;0;0;0;0;0
+DABGEO\3-domain-task layer\smart_grid_scenario\smart_grid_dr\energyusageforecast\EnergyUsageForecast.owl;5;3;0;3;0.375;0.6;1.0;1.0;1.0;2.375;0;3;3;0;0;0;0;0
+DABGEO\3-domain-task layer\smart_grid_scenario\smart_grid_dr\stakeholdersinfrastructure\StakeholdersInfrastructure.owl;2;1;0;1;0.3333333333333333;0.0;1.0;1.0;1.0;2.3333333333333335;0;1;1;0;0;0;0;0
+DABGEO\3-domain-task layer\smart_grid_scenario\smart_home\actuators\Actuators.owl;2;2;0;2;0.5;0.5;1.0;1.0;1.0;2.25;0;0;0;0;0;0;0;0
+DABGEO\3-domain-task layer\smart_grid_scenario\smart_home\buildingelementactuators\BuildingElementActuators.owl;15;2;0;2;0.11764705882352941;0.7333333333333333;0.5;1.0;1.0;2.588235294117647;0;0;0;0;0;0;5;0
+DABGEO\3-domain-task layer\smart_grid_scenario\smart_home\communicationdevices\CommunicationDevices.owl;6;0;0;0;0.0;1.0;0.0;1.0;0.0;2.1666666666666665;0;0;0;0;0;0;0;0
+DABGEO\3-domain-task layer\smart_grid_scenario\smart_home\consumptionsystemsoperation\ConsumptionSystemsOperation.owl;1;1;1;2;0.6666666666666666;0.0;0.5;1.0;1.0;10.666666666666666;5;0;0;0;0;0;7;0
+DABGEO\3-domain-task layer\smart_grid_scenario\smart_home\deviceactuators\DeviceActuators.owl;9;0;0;0;0.0;1.0;0.0;1.0;0.0;2.111111111111111;0;0;0;0;0;0;0;0
+DABGEO\3-domain-task layer\smart_grid_scenario\smart_home\devicecommands\DeviceCommands.owl;337;6;8;14;0.039886039886039885;0.9554896142433235;0.8571428571428571;0.9970326409495549;1.0;6.800569800569801;52;8;9;0;1;0;30;4
+DABGEO\3-domain-task layer\smart_grid_scenario\smart_home\devicefunctionality\DeviceFunctionality.owl;146;2;4;6;0.039473684210526314;0.9931506849315068;1.0;1.0;1.0;2.3223684210526314;2;5;3;2;0;0;0;0
+DABGEO\3-domain-task layer\smart_grid_scenario\smart_home\devicemanufacturer\DeviceManufacturer.owl;0;0;8;8;1.0;0.0;0.875;0.0;1.0;3.25;0;8;6;0;0;0;0;0
+DABGEO\3-domain-task layer\smart_grid_scenario\smart_home\domoticnetworkcomponents\DomoticNetworkComponents.owl;34;3;12;15;0.30612244897959184;0.8235294117647058;0.9333333333333333;0.8235294117647058;0.9333333333333333;3.3469387755102042;17;13;8;0;0;0;0;0
+DABGEO\3-domain-task layer\smart_grid_scenario\smart_home\securitysystems\SecuritySystems.owl;7;0;0;0;0.0;0.8571428571428571;0.0;1.0;0.0;2.0;0;0;0;0;0;0;0;0
+DABGEO\3-domain-task layer\smart_grid_scenario\smart_home\waterheatingwhitegoods\WaterHeatingWhiteGoods.owl;8;0;0;0;0.0;0.875;0.0;1.0;0.0;2.375;0;0;0;1;0;0;0;0
+IEMS\Energy_Framework.owl;30;5;20;25;0.45454545454545453;1.0;0.96;0.4666666666666667;0.2;2.4909090909090907;0;25;25;0;0;0;0;0
+IEMS\ontology.owl;5;1;10;11;0.6875;1.0;1.0;0.8;1.0;2.625;0;11;11;0;0;0;0;0
+IESO\actor-roles.ttl;32;4;0;4;0.1111111111111111;0.96875;1.0;0.96875;1.0;2.5;2;4;4;0;0;0;1;0
+IESO\building.ttl;35;13;0;13;0.2708333333333333;1.0;1.0;1.0;1.0;2.4791666666666665;0;13;12;0;0;0;0;0
+IESO\contract.ttl;25;25;1;26;0.5098039215686274;1.0;1.0;1.0;1.0;4.235294117647059;10;15;23;0;0;0;15;1
+IESO\demand-response.ttl;17;21;2;23;0.575;0.4117647058823529;1.0;0.4117647058823529;1.0;4.0;17;21;19;0;0;0;5;0
+IESO\device.ttl;96;11;3;14;0.12727272727272726;0.9270833333333334;1.0;0.9270833333333334;1.0;3.827272727272727;25;13;8;0;3;0;28;0
+IESO\ieso.ttl;0;0;9;9;1.0;0.0;1.0;0.0;1.0;1.1111111111111112;0;0;0;0;0;0;0;0
+IESO\measure.ttl;92;110;8;118;0.5619047619047619;1.0;1.0;1.0;0.9745762711864406;4.695238095238095;38;15;11;0;5;0;43;49
+IESO\power-transmission-distribution.ttl;99;11;24;35;0.26119402985074625;1.0;1.0;1.0;1.0;4.029850746268656;35;18;29;0;24;0;10;28
+IESO\trading.ttl;59;67;33;100;0.6289308176100629;0.9152542372881356;0.99;0.9152542372881356;1.0;5.459119496855346;103;71;90;4;72;12;16;0
+OpenEnergyOntology\oeo-closure.owl;1953;167;9;176;0.08266791921089714;0.778289810547875;0.9886363636363636;0.0;0.011363636363636364;6.3579145138562705;4;144;135;44;0;0;1439;25
+OpenEnergyOntology\oeo-full.owl;1953;167;9;176;0.08266791921089714;0.778289810547875;0.9886363636363636;0.0;0.011363636363636364;5.498356035697511;4;116;112;44;0;0;1439;25
+SEAS\ArchitectureOntology-2.0.ttl;17;5;1;6;0.2608695652173913;0.8823529411764706;0.8333333333333334;1.0;1.0;3.608695652173913;0;5;5;2;1;1;0;5
+SEAS\BatteryOntology-1.0.ttl;3;1;1;2;0.4;0.3333333333333333;0.5;1.0;1.0;4.2;0;1;1;0;1;0;0;0
+SEAS\BooleanPropertyOntology-1.0.ttl;10;8;1;9;0.47368421052631576;0.8;0.8888888888888888;1.0;1.0;4.947368421052632;0;8;8;0;8;0;0;9
+SEAS\BuildingOntology-1.0.ttl;64;0;1;1;0.015384615384615385;0.96875;0.0;1.0;1.0;2.3846153846153846;0;0;0;3;0;0;0;4
+SEAS\CityOntology-1.0.ttl;28;0;1;1;0.034482758620689655;0.9285714285714286;0.0;0.9285714285714286;1.0;2.7241379310344827;4;0;0;0;0;0;0;0
+SEAS\ComfortOntology-1.0.ttl;10;1;1;2;0.16666666666666666;0.8;0.5;1.0;1.0;3.1666666666666665;0;1;1;0;0;0;0;1
+SEAS\CommunicationOntology-1.0.ttl;41;13;1;14;0.2545454545454545;0.9512195121951219;0.9285714285714286;1.0;1.0;4.527272727272727;0;1;1;0;0;0;12;52
+SEAS\ComplexOntology-1.0.ttl;3;4;1;5;0.625;0.3333333333333333;0.8;1.0;1.0;3.625;0;4;0;0;4;0;0;0
+SEAS\DeviceOntology-1.1.ttl;9;4;1;5;0.35714285714285715;0.7777777777777778;0.8;1.0;1.0;4.928571428571429;0;4;4;0;0;0;12;0
+SEAS\ElectricLightSourceOntology-1.0.ttl;33;7;1;8;0.1951219512195122;0.9393939393939394;0.875;1.0;1.0;3.2195121951219514;0;7;7;0;7;0;12;0
+SEAS\ElectricPowerSystemOntology-1.0.ttl;67;124;1;125;0.6510416666666666;0.9701492537313433;0.992;1.0;0.76;3.8177083333333335;0;117;121;4;80;0;40;5
+SEAS\ElectricVehicleOntology-1.0.ttl;10;2;1;3;0.23076923076923078;0.8;0.6666666666666666;1.0;1.0;3.0;0;0;0;0;2;0;2;0
+SEAS\EnergyFormOntology-1.0.ttl;5;0;1;1;0.16666666666666666;0.6;0.0;1.0;1.0;6.333333333333333;0;0;0;0;0;0;0;0
+SEAS\EvaluationOntology-1.0.ttl;6;7;3;10;0.625;0.6666666666666666;0.9;1.0;1.0;3.125;0;6;4;2;4;1;0;0
+SEAS\FailableSystemOntology-1.0.ttl;2;7;1;8;0.8;0.0;0.875;1.0;1.0;3.5;0;3;3;0;5;0;0;0
+SEAS\FeatureOfInterestOntology-1.0.ttl;5;3;1;4;0.4444444444444444;0.6;0.75;1.0;1.0;3.888888888888889;1;3;3;0;1;0;0;0
+SEAS\FlexibilityOntology-1.0.ttl;8;1;1;2;0.2;0.75;0.5;1.0;1.0;4.1;0;1;1;0;0;0;0;5
+SEAS\ForecastingOntology-1.1.ttl;5;2;1;3;0.375;0.6;0.6666666666666666;1.0;1.0;5.125;0;2;2;0;0;0;6;0
+SEAS\GenericPropertyOntology-1.0.ttl;44;20;1;21;0.3230769230769231;0.9545454545454546;0.9523809523809523;1.0;1.0;3.9384615384615387;0;12;20;0;20;0;38;0
+SEAS\GreenKPIOntology-1.0.ttl;2;2;1;3;0.6;0.0;0.6666666666666666;1.0;1.0;4.0;0;0;0;0;2;0;0;0
+SEAS\OfferingOntology-1.1.ttl;6;7;1;8;0.5714285714285714;0.6666666666666666;0.875;1.0;1.0;3.5714285714285716;0;5;7;0;2;0;2;1
+SEAS\OperatingOntology-1.0.ttl;7;0;1;1;0.125;0.7142857142857143;0.0;1.0;1.0;3.125;0;0;0;0;0;0;0;0
+SEAS\OptimizationOntology-1.1.ttl;5;2;1;3;0.375;0.6;0.6666666666666666;1.0;1.0;5.125;0;2;2;0;0;0;6;0
+SEAS\PeriodicSignalOntology-1.0.ttl;6;1;1;2;0.25;0.6666666666666666;0.5;1.0;1.0;3.125;0;0;0;0;1;0;0;0
+SEAS\PhotovoltaicOntology-1.0.ttl;11;0;1;1;0.08333333333333333;0.8181818181818182;0.0;1.0;1.0;7.166666666666667;0;0;0;0;0;0;15;5
+SEAS\PlayerOntology-1.1.ttl;34;0;1;1;0.02857142857142857;0.9411764705882353;0.0;1.0;1.0;2.2857142857142856;0;0;0;0;0;0;0;0
+SEAS\PricingOntology-1.0.ttl;22;10;1;11;0.3333333333333333;0.9090909090909091;0.9090909090909091;1.0;1.0;4.0;0;1;10;5;10;0;20;0
+SEAS\seas-1.1.ttl;2;0;1;1;0.3333333333333333;0.0;0.0;1.0;1.0;8.0;0;0;0;0;0;0;0;0
+SEAS\SmartMeterOntology-1.1.ttl;52;8;2;10;0.16129032258064516;0.9615384615384616;0.9;1.0;1.0;4.483870967741935;0;9;9;0;6;0;42;0
+SEAS\StatisticsOntology-1.0.ttl;11;0;2;2;0.15384615384615385;0.8181818181818182;0.5;1.0;1.0;3.0;1;1;1;0;1;0;0;0
+SEAS\StreetLightSystemOntology-1.0.ttl;33;6;1;7;0.175;0.9393939393939394;0.8571428571428571;1.0;1.0;4.475;1;4;6;1;2;0;27;3
+SEAS\SystemOntology-1.1.ttl;7;9;1;10;0.5882352941176471;0.7142857142857143;0.9;1.0;1.0;4.588235294117647;1;9;9;5;2;2;2;0
+SEAS\ThermodynamicSystemOntology-1.0.ttl;3;5;1;6;0.6666666666666666;0.3333333333333333;0.8333333333333334;1.0;1.0;3.888888888888889;0;5;5;0;3;0;0;0
+SEAS\TimeOntology-1.0.ttl;11;8;3;11;0.5;0.8181818181818182;0.9090909090909091;1.0;1.0;2.6363636363636362;0;4;4;0;3;0;2;0
+SEAS\TradingOntology-1.1.ttl;18;11;1;12;0.4;0.8888888888888888;0.9166666666666666;1.0;1.0;4.433333333333334;0;11;9;2;4;2;16;3
+SEAS\ZoneLightingOntology-1.0.ttl;8;8;1;9;0.5294117647058824;0.75;0.8888888888888888;1.0;1.0;4.0;0;8;8;0;5;0;0;4
+SEAS\ZoneOntology-1.0.ttl;14;9;1;10;0.4166666666666667;0.8571428571428571;0.9;1.0;1.0;3.5416666666666665;0;9;9;0;8;0;0;4
+ThinkHome\ActorOntology.owl;60;15;6;21;0.25925925925925924;0.21666666666666667;0.38095238095238093;0.6333333333333333;1.0;3.691358024691358;0;16;12;2;5;0;35;2
+ThinkHome\BuildingOntology.owl;880;232;207;439;0.332827899924185;0.15681818181818183;0.2460136674259681;0.26022727272727275;0.9954441913439636;5.300985595147839;1068;227;433;3;1;0;28;49
+ThinkHome\EnergyResourceOntology.owl;710;76;44;120;0.14457831325301204;0.49014084507042255;0.5916666666666667;0.7450704225352113;0.9916666666666667;5.9879518072289155;227;69;59;28;5;1;606;82
+ThinkHome\ProcessOntology.owl;240;30;10;40;0.14285714285714285;0.15416666666666667;0.675;0.6583333333333333;1.0;5.6535714285714285;11;29;19;4;3;0;244;67
+ThinkHome\WeatherOntology.owl;223;21;16;37;0.1423076923076923;0.1031390134529148;0.3783783783783784;0.484304932735426;1.0;4.934615384615385;26;31;28;2;22;2;182;30
