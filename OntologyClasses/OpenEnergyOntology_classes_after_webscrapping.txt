@@ -1,0 +1,1214 @@
+fuel role
+biofuel power unit
+biogas power plant
+biogas power unit
+carbon dioxide
+chemical energy
+coal power unit
+electric heat pump
+electro motive generator
+energy converting component
+energy storage function
+fluorinated greenhouse gas
+fossil combustion fuel
+fuel cell
+gas fired power unit
+geothermal power unit
+greenhouse gas
+hard coal power unit
+hydrogen power unit
+lignite power unit
+methane
+nitrogen trifluoride
+nitrous oxide
+nuclear energy carrier disposition
+nuclear power unit
+oil power unit
+power plant
+photovoltaic cell
+renewable fuel
+solar power unit
+solar thermal power unit
+solid biomass power plant
+solid biomass power unit
+sulphur hexafluoride
+thermal energy storage function
+uranium
+waste power unit
+waste role
+wind
+wind energy converting unit
+producer
+AC-line
+acronym
+agent
+air
+air pollution
+ambient thermal energy
+anthracite
+application programming interface
+artificial object
+associated gas
+assumption
+author
+aviation gasoline
+battery
+biodiesel
+biofuel
+biofuel power plant
+biogas
+biogasoline
+blast furnace gas
+boolean variable
+charcoal
+citation reference
+client
+coal
+coal power plant
+code documentation
+code source
+coke oven gas
+coking coal
+colliery gas
+combustible energy carrier disposition
+combustion fuel
+compressed air
+constraint
+consumer
+contact person
+crude oil
+dam
+database
+data descriptor
+data format
+data postprocessing
+data preprocessing
+data processing
+data processing software
+HVDC-line
+energy demand sector
+grid transferred thermal energy
+fossil diesel fuel
+district heating
+DOI
+electrical energy
+electricity grid
+electricity grid component
+electricity sector
+electric vehicle
+emission
+emission factor
+empirical data set
+energy
+energy carrier disposition
+energy transformation sector
+energy storage object
+external optimiser
+factsheet
+field photovoltaic power plant
+flow battery
+framework factsheet
+fuel
+fueled power plant
+fueled power unit
+gas diesel oil
+gasoline
+gas power plant
+gas turbine
+gasworks gas
+generator
+geographic coordinate
+geothermal energy
+geothermal power plant
+greenhouse effect disposition
+greenhouse gas emission
+supply grid
+graphical user interface
+hard coal
+hard coal power plant
+hardware
+thermal energy
+heater
+heating oil
+heat pump
+heating and cooling sector
+household sector
+hydro energy
+hydrofluorocarbon
+hydrogen
+hydrogen power plant
+hydrogen turbine
+industrial waste fuel
+industry sector
+installation guide
+institution
+software interface
+internal combustion vehicle
+jet fuel
+kerosene
+lithium-ion battery
+lignite
+lignite power plant
+power line
+grid component link
+liquid air
+liquid biofuel
+liquid-metal battery
+manufactured coal based gas
+energy market model
+power-to-methane system
+numerical computer model
+model calculation
+model component
+model factsheet
+modelling software
+modus
+molten-salt battery
+motor gasoline
+municipal waste fuel
+natural gas
+negative emission
+grid node
+non associated gas
+non-methane volatile organic compound
+fossil municipal waste fuel
+nuclear binding energy
+nuclear fuel
+nuclear power plant
+objective function
+offshore wind farm
+oil power plant
+onshore wind farm
+open source
+optimisation
+optimisation model
+organisation role
+origin
+particulate matter
+peat
+perfluorocarbon
+person
+photovoltaic power plant
+plotting
+political assumption
+political party
+pollution
+portion of matter
+solid biofuel
+power
+power generating unit
+power-to-gas system
+program parameter
+project
+prosumer
+pumped water
+PV panel
+quantity value
+reference
+biogenic municipal waste fuel
+rooftop photovoltaic power plant
+scenario
+scenario factsheet
+sector
+sector division
+simulation
+simulation model
+single node model
+superconducting magnetic energy storage
+sodium-ion battery
+sodium-sulphur battery
+software descriptor
+software developer
+software documentation
+software framework
+solar energy
+solar power plant
+solar thermal collector
+solar thermal energy
+solar thermal power plant
+solid fossil fuel
+solver
+state of matter
+steam turbine
+energy storage unit
+sub bituminous coal
+synthetic data set
+commercial sector
+technology
+test data set
+transformation
+transformer
+transport sector
+electricity transshipment model
+turbine
+underground hydrogen storage object
+user
+user documentation
+variable
+volatile organic compound
+waste fuel
+waste power plant
+water
+water turbine
+wind energy
+wind farm
+wind rotor
+wood
+ammonia
+carbon monoxide
+nitrogen oxides
+nitric oxide
+nitrogen dioxide
+sulphur dioxide
+PM10
+PM2.5
+volatility
+air pollutant
+fossil hydrogen
+synthetic hydrogen
+synthetic fuel
+synthetic methane
+PtL fuel
+power-to-liquid system
+water electrolyser
+steam reformer
+vehicle
+battery electric vehicle
+fuel cell electric vehicle
+traction battery
+electric motor
+electric traction motor
+internal combustion engine
+plug-in hybrid electric vehicle
+grid supplied electric vehicle
+motor
+building sector
+agriculture, forestry and land use sector
+waste and wastewater sector
+sensitivity analysis
+common reporting format
+areal power density unit
+areal energy density unit
+areal power density
+areal energy density
+areal solar power density
+areal solar energy density
+global warming potential
+emission value
+solar-steam-electric process
+solar chemical energy transformation
+trade
+market participant
+reservoir
+hydro power unit
+hydro power plant
+run of river power plant
+hydro storage power plant
+pumped hydro storage power plant
+pump
+open-loop pumped hydro storage power plant
+closed-loop pumped hydro storage power plant
+river
+reservoir hydro storage power plant
+marine thermal energy
+marine thermal energy transfer
+marine current energy
+marine current energy transformation
+marine tidal energy transformation
+marine tidal energy
+tidal flow
+marine wave energy
+marine wave energy transformation
+water body
+ocean
+wave
+ocean current
+marine current energy converting unit
+marine tidal energy converting unit
+marine wave energy converting unit
+marine current energy power plant
+marine tidal energy power plant
+marine wave energy power plant
+waste thermal energy
+economy
+good
+good role
+effort sharing
+Annual Emission Allocation
+secondary energy production
+EU emission sector division
+distribution
+metric ton
+carbon capture
+direct air capture
+carbon storage
+carbon capture and storage
+solid combustion fuel
+liquid combustion fuel
+gaseous combustion fuel
+liquid fossil fuel
+gaseous fossil fuel
+solid renewable fuel
+liquid renewable fuel
+gaseous renewable fuel
+gaseous biofuel
+solid synthetic fuel
+gaseous synthetic fuel
+liquid synthetic fuel
+power value
+energy use
+non-energy use
+decarbonisation pathway
+emission constraint
+biomass
+biomethane
+power-to-gas process
+power-to-methane process
+oxygen
+water electrolysis process
+methanation
+synthetic ammonia
+power-to-ammonia process
+biogenic waste fuel
+fossil waste fuel
+biogenic industrial waste fuel
+fossil industrial waste fuel
+memo item
+forecast error
+gas mixture
+liquefied natural gas
+gasoline fuel role
+diesel fuel role
+gasoline fuel
+diesel fuel
+gasoline engine
+diesel engine
+gasoline vehicle
+diesel vehicle
+abbreviation
+heat generation process
+combustion thermal energy transformation
+study factsheet
+OEP study factsheet
+scenario study
+traction
+traction motor
+nationally determined contribution
+maximum value
+power capacity
+bioenergy
+measurement device
+parameterisation
+model calibration
+scenario projection
+passenger transport
+passenger
+energy service demand for passenger-kilometre
+energy service demand for ton-kilometre
+steam reforming
+emission price
+CO2 price
+carbon tax value
+CO2 emission certificate price
+land vehicle
+road vehicle
+motorised road vehicle
+car
+bus
+truck
+bicycle
+train
+freight train
+passenger train
+e-bike
+motorcycle
+watercraft
+ship
+passenger ship
+cargo ship
+container ship
+tank ship
+motorised vehicle
+aircraft
+airplane
+helicopter
+conventional energy
+primary energy consumption calculation method
+substitution method
+direct equivalent method
+physical method
+current collector
+gas turbine vehicle
+jet fuel vehicle
+jet fuel turbine
+NC/BR sector division
+sectoral energy consumption
+sectoral emission
+mineral oil refining process
+mineral oil product
+mineral oil
+mineral oil refinery
+mineral oil refining sector
+international transport sector
+chemical energy storage function
+electrical energy storage function
+kinetic energy storage function
+potential energy storage function
+underground fuel storage object
+refinery gas
+petroleum coke
+OEP user
+qualitist
+quantitist
+apinist
+sustainability criterion
+material sustainability
+process sustainability
+sustainable process
+sustainable biofuel
+non-sustainable biofuel
+source category
+renewable power unit
+renewable power plant
+electrolytic hydrogen
+renewable electrolytic hydrogen
+steam reforming hydrogen
+fossil steam reforming hydrogen
+abated steam reforming hydrogen
+renewable electrical energy
+energy transformation function
+electricity generation function
+heat generation function
+renewable energy transformation function
+direct solar radiation
+diffuse solar radiation
+non-scattered radiant flux density
+solar tracking
+single axis tracking
+two axis tracking
+solar tracked receiving surface
+single axis tracked receiving surface
+two axis tracked receiving surface
+power-only generating unit
+CRF-based sector division
+EU legislation sector division
+energy balance data set
+energy balance collection
+energy balance calculation method
+energy balance sector division
+Brent crude
+Western Texas Intermediate
+energy transfer function
+forecast
+creative work licence
+subsurface collector
+downhole heat exchanger
+nuclear
+nuclear electric hydrogen
+nuclear electrical energy
+solar electrolytic hydrogen
+solar electrical energy
+fuel production
+boolean value
+power generation technology
+wind power technology
+onshore wind power technology
+offshore wind power technology
+solar power technology
+photovoltaic technology
+solar thermal power technology
+geothermal power technology
+hydro power technology
+run of river power technology
+reservoir hydro storage power technology
+marine hydro power technology
+marine current energy technology
+marine tidal energy technology
+marine wave energy technology
+pumped hydro storage power technology
+nuclear power technology
+fuel power technology
+coal power technology
+hard coal power technology
+lignite power technology
+sufficiency
+blended liquid fuel
+bioethanol
+E10
+B7
+mobility technology
+electric mobility technology
+fuel blending quota
+fuel quota blending value
+temperature
+pressure
+carbon capture and storage technology
+economic instrument
+voluntary agreement
+regulatory instrument
+information instrument
+education instrument
+voluntary agreement instrument
+subsector
+missing value reason
+notation key
+forecasting model calculation
+non-energy use technology
+compressor
+compressor station
+gas turbine compressor station
+electric compressor station
+methanol
+manufacturing technology
+manufacturing plant
+unit
+physical unit
+manufactured commodity
+economic instrument function
+education instrument function
+information instrument function
+regulatory instrument function
+voluntary agreement instrument function
+licensee
+licence provider
+product
+ethanol
+energy transformation
+gas grid
+heating grid
+grid component
+gas grid component
+heating grid component
+switchyard
+study
+study report
+output data
+licence
+model descriptor
+analytical approach
+methodical focus
+primary modelling purpose
+model documentation
+top down
+bottom up
+hybrid
+study region
+subregion
+study subregion
+considered region
+interacting region
+radiation
+solar radiation
+energy carrier
+radiative energy
+wind energy transformation
+potential energy
+solar energy transformation
+solar thermal energy transformation
+photovoltaic energy transformation
+renewable energy carrier
+nuclear fission
+nuclear energy transformation
+rock
+geothermal heat transfer
+fuel market exchange
+emission certificate
+EU allowance
+energy market exchange
+fuel commodity role
+commodity
+fuel commodity
+market exchange
+analysis scope
+grid-bound heating
+industrial grid-bound heating
+emission market exchange
+markup
+markdown
+renewable energy
+renewable energy carrier disposition
+natural hydro energy
+pumped hydro energy
+typical period
+typical year
+typical day
+target description
+scenario year
+scenario horizon
+meteorological year
+weather time series
+scenario time series
+energy transformation unit
+energy transfer
+outage
+forced outage
+planned outage
+curtailment
+feed-in tariff
+market premium
+levy
+capacity premium
+tax
+inflation rate
+exchange rate
+purchasing power parity
+system cost
+electricity price
+resolution
+temporal resolution
+spatial resolution
+due
+remuneration
+fee
+levelised cost of electricity
+market revenue
+space requirement
+operational space requirement
+space requirement for construction
+area per power unit
+specific space requirement
+square kilometer
+area value
+rotor diameter
+variable cost
+variable production cost
+conventional
+conventional energy carrier disposition
+fossil energy
+emission certificate price
+social cost of carbon emission
+carbon tax
+methodology
+investment cost
+fixed cost
+equipment cost
+installation cost
+grid connection cost
+property cost
+decommissioning cost
+delivery cost
+life time
+construction time
+decommissioning time
+operational life time
+social cost of emission
+copyright licence
+data licence
+software licence
+fissile material entity
+tangential proper part
+surface
+solar radiation receiving surface
+solar receiving object
+import
+export
+electrical energy amount value
+electricity import value
+electricity export value
+electricity import
+electricity export
+sirup
+scenario bundle
+target driven scenario
+explorative scenario
+compressed-air energy storage unit
+propulsion
+climate system
+electrical energy share
+renewable energy share value
+electrical energy share value
+material transformation
+energy technology
+geothermal heat technology
+solar thermal heat technology
+heat generation technology
+policy scenario
+without measures scenario
+with existing measures scenario
+with additional measures scenario
+reference role
+reference scenario
+greenhouse gas emission scenario
+CO2 emission scenario
+sufficiency scenario
+power-to-fuel technology
+power-to-gas technology
+power-to-ammonia technology
+power-to-methane technology
+power-to-liquid technology
+model
+model role
+mathematical model
+scale model
+electrical energy storage object
+chemical energy storage object
+kinetic energy storage object
+thermal energy storage object
+energy storage technology
+electrical energy storage technology
+kinetic energy storage technology
+thermal energy storage technology
+chemical energy storage technology
+potential energy storage object
+potential energy storage technology
+study report due to legal obligation
+model coupling
+sector coupling technology
+sector coupling
+system robustness
+robust system scenario
+statistically robust scenario
+statistically robust
+commissioning start
+decommissioning start
+decommissioning end
+commissioning end
+relational quantity value
+monetary price
+anthropogenic
+biogenic
+fossil
+geogenic
+renewable
+synthetic
+climate scenario
+economic scenario
+emission scenario
+energy scenario
+energy system model
+organisational energy producer
+energy autoproducer
+main activity energy producer
+process attribute
+organisation
+energy system
+supply system
+primary energy production
+primary energy carrier mining
+primary energy carrier harvest
+exogenous data
+endogenous data
+start time
+ending time
+time step
+time series
+time span
+market exchange role
+monetary value
+currency
+trader
+request
+price request
+marginal cost
+cost
+commodity role
+manufacturing process
+fuel-powered electricity generation process
+kilojoule
+megajoule
+gigajoule
+terajoule
+petajoule
+exajoule
+megawatt-hour
+terawatt-hour
+petawatt-hour
+gigawatt-hour
+final energy consumption value
+gross inland energy consumption value
+primary energy consumption value
+energy value
+steam-electric process
+volumetric flow rate value
+funder
+public funder
+private funder
+liquid water
+steam
+water flow
+water flow rate
+hydro energy transformation
+hydroelectric energy transformation
+hub height
+length value
+transport
+international transport
+freight transport
+private transport
+public transport
+sponsor
+obsolete economic value
+gross domestic product
+gross value added
+validation
+cross-checking against other models
+checking against measurements
+checking against empirical data
+chemical reaction
+redox reaction
+oxidation
+reduction
+electrochemical reaction
+combustion
+consumption
+demand
+time stamp
+time stamp alignment
+energy conversion efficiency
+efficiency value
+coefficient of performance value
+energy conversion performance
+flow potential
+theoretical flow potential
+technological flow potential
+economic flow potential
+developable flow potential
+sustainable flow potential
+stock potential
+theoretical stock potential
+technological stock potential
+economic stock potential
+developable stock potential
+sustainable stock potential
+aggregation type
+primary energy carrier disposition
+secondary energy carrier disposition
+final energy carrier disposition
+primary energy carrier
+secondary energy carrier
+final energy carrier
+emission rate
+greenhouse gas emission rate
+carbon dioxide equivalent quantity value
+plutonium
+thorium
+quality control flag
+goal description
+heat transfer
+heat exchanger
+natural ambient thermal energy
+artificial ambient thermal energy
+ambient thermal energy transfer
+contract
+fluid
+delivery time
+delivery time point
+sender
+receiver
+bid
+award
+provider
+service
+delivery interval
+planned availability
+fraction value
+block size
+unplanned availability
+power plant operator
+conventional trader
+renewable energy share
+hydrogen fuel cell
+natural gas turbine
+dispatch assignment
+power plant portfolio
+generation time series
+yield profile
+demand trader
+merit order
+direct marketer
+full load hours
+energy demand
+transformative measure
+policy
+policy instrument
+hydrocarbon
+syngas
+cooperative programming
+power plant with electro motive generator
+uncertainty approach
+email address
+frequency control
+primary control
+secondary control
+tertiary control
+fuel cost
+market share
+market share value
+energy storage capacity
+power rating
+declared net capacity
+nameplate capacity
+population
+urban population
+rural population
+labour force
+working age population
+kinetic energy
+photon
+rotational energy
+production
+objective variable
+combined heat and power generation process
+combined heat and power generating unit
+combined heat and power plant
+gross electricity generation
+net electricity generation
+electricity generation process
+liquid air production
+net capacity factor
+gross national electricity consumption value
+energy consumption value
+discount rate
+protected area
+energy service demand
+manufactured material
+chemical substance
+paper
+cement
+mineral
+non-metallic mineral
+metal
+steel
+non-ferrous metal
+import price
+export price
+personal living space
+ramping
+start-up speed
+cold start
+CO2 emission
+CO2 emission rate
+data file format
+text file format
+delimiter separated file format
+comma separated file format
+binary file format
+source code file format
+potential
+slope
+surface azimuth angle
+data center
+sewage plant
+industrial waste thermal energy
+recovered heat
+aerothermal energy
+heat generating unit
+rotary heat exchanger
+plate heat exchanger
+heat plant
+heat transfer unit
+boiler
+combustion-based heater
+electrical heater
+geothermal heat unit
+geothermal heat plant
+tube collector
+flat-plate collector
+combined cycle electricity generation process
+gas turbine process
+steam power unit
+thermo-chemical heat storage object
+chemical heat storage object
+sorption heat storage object
+adsorption
+desorption
+sensible heat storage object
+sensible fluid heat storage object
+sensible solid heat storage object
+phase transition
+evaporation
+melting
+latent heat storage object
+latent solid-fluid heat storage object
+latent fluid-gaseous heat storage object
+solar heat plant
+solar heat unit
+transport performance value
+transport performance unit
+passenger-kilometre
+ton-kilometre
+gas vehicle
+liquefied petroleum gas vehicle
+compressed gas vehicle
+liquefied natural gas vehicle
+gas engine
+compressed gas engine
+compressed gas fuel role
+liquefied petroleum gas
+compressed natural gas
+compressed biomethane
+compressed synthetic methane
+compressed gas fuel
+transport network
+road network
+rail network
+waterway network
+aviation network
+transport network component
+road
+bridge
+tunnel
+railway
+canal
+transport hub
+train station
+freight train station
+passenger train station
+bus station
+port
+freight port
+passenger port
+airport
+electrical energy transfer
+chemical energy transfer
+fuel transport
+combustion fuel transport
+vehicle charging station
+vehicle operational mode
+fuel supply system
+diesel car
+diesel truck
+gasoline car
+battery electric car
+fuel cell electric car
+compressed gas car
+liquefied petroleum gas car
+plug-in hybrid electric car
+battery electric truck
+fuel cell electric truck
+compressed gas truck
+liquefied natural gas truck
+tank
+fuel tank
+volume
+filling station
+hydrogen station
+hydrogen transport
+vehicle-kilometre
+electricity demand
+fuel demand
+charging
+bidirectional vehicle charging station
+ton of oil equivalent
+kilo ton of oil equivalent
+million ton of oil equivalent
+ton of coal equivalent
+kilo ton of coal equivalent
+million ton of coal equivalent
+utilisation value
+amortisation time
+economic life time
+power-to-fuel process
+power-to-liquid process
+power-to-fuel system
+power-to-ammonia system
+energy storage content
+energy storage level
+decrease
+increase
+regionalisation
+quantity
+emission factor value
+greenhouse gas emission value
+CO2 emission value
+size
+amount
+population count
+annual GDP growth
+acceptance
+recycling
+model intercomparison study
+scenario projection comparison
+control area
+bidding zone
+bidding zone role
+flexibility
+energy balancing
+climate neutrality criterion
+process climate neutrality
+climate neutral process
+material climate neutrality
+resilience
+power system resilience
+power system
+service product role
+service product
+region of relevance
+study region role
+considered region role
+interacting region role
+study subregion role
+priority region role
+conditionally reserved region role
+suitable region role
+priority region
+conditionally reserved region
+suitable region
+priority region with effect of suitable region
+spatial planning policy
+critical infrastructure role
+critical infrastructure
+kilowatt
+megawatt
+wind characteristics determination method
+data preparation
+determined wind characteristics
+wind speed calculation
+wind characteristics determination process
+air density adjustment
+wind speed frequency analysis
+wind variability identification
+wind power density calculation
+improve spatial resolution
+select exclusion criteria
+prepare exclusion criteria datasets
+run multi-criteria decision analysis
+determine development area
+determine geographical potential
+determined wind farm area
+wind farm area determination method
+action specification for wind characteristics
+action specification for wind farm development area
+wind farm area determination process
+action specification for the technical wind potential
+select appropriate turbine types
+place turbines within area
+account for wake losses
+determine annual energy yield
+determine capacity factor
+calculate technical potential
+determined wind potential
+wind potential determination method
+wind potential determination process
+action specification for techno-economic potential
+determine wind turbine lifetime
+determine capital expenditures
+determine operational expenditures
+determine discount and interest rate
+calculate levelised cost of electricity
+calculate economic potential
+determined techno-economic potential
+techno-economic potential determination method
+techno-economic potential determination process
+action specification for the feasible potential
+apply socio-economic constraints for assessment of potential
+calculate feasible potential
+determined feasible potential
+feasible potental determination method
+feasible potental determination process
+study descriptor
+determine capacity density
+uncertainty of a model
+nature of model uncertainty
+level of model uncertainty
+location of model uncertainty role
+conceptual model
+model system boundary
+technical model implementation
+model uncertainty location
+bird sanctuary role
+legislation
+fauna flora habitat role
+fauna flora habitat
+protected area role
+bird sanctuary

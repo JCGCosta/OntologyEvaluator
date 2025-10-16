@@ -2,3 +2,5 @@ owlready2
 rdflib
 pandas
 numpy
+brickschema
+rdflib_sqlalchemy

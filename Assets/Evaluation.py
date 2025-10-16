@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 from rdflib import Graph, RDF, RDFS, OWL
+import brickschema as bs
 ONTO_EXTENSIONS = {'.ttl', '.rdf', '.owl'}
 from Assets.Metrics import Metrics
 from Assets.Utils import load_graph
@@ -28,6 +29,13 @@ class OntologyEvaluator:
 
     def process_work(self, add_other_indicators: bool = False, ontology_c_output: str = "./", try_import_external_ontologies: bool = False):
         all_metrics = []
+        g = bs.Graph(load_brick=True)
+        print(f"Analyzing brickschema python package: found triples.")
+        metrics = Metrics(g, "brick").run(add_other_indicators=add_other_indicators, ontology_c_output=os.path.join(ontology_c_output, f"brick_classes.txt"),
+                                             ontologies_base_urls=self.ontologiesBaseURL)
+        metrics["Ontology Source"] = "brick"
+        metrics["Source Type"] = "python_package"
+        all_metrics.append(metrics)
         for entry in os.scandir(self.root):
             if entry.is_file() and any(entry.name.endswith(ext) for ext in ONTO_EXTENSIONS):
                 print(f"Analyzing single ontology file: {entry.path}")

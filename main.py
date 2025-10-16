@@ -17,7 +17,13 @@ ontologiesBaseUrl = {
   "saref4ener": "https://saref.etsi.org/saref4ener",
   "SARGON": "https://w3id.org/saref",
   "SEAS": "https://w3id.org/seas",
-  "ThinkHome": "https://www.auto.tuwien.ac.at/downloads/thinkhome"
+  "ThinkHome": "https://www.auto.tuwien.ac.at/downloads/thinkhome",
+  "saref4grid": "https://saref.etsi.org/saref4grid/",
+  "SEMANCO": "http://semanco02.hs-albsig.de/repository/ontology-releases/eu/semanco/ontology/SEMANCO/SEMANCO.owl#",
+  "EEPSA": "https://w3id.org/eepsa/",
+  "BOnSAI": "http://lpis.csd.auth.gr/ontologies/bonsai/BOnSAI.owl",
+  "SmartHome": "http://www.owl-ontologies.com/smarthome",
+  "brick": "https://brickschema.org/schema/Brick"
 }
 
 OE = OntologyEvaluator(root="Ontologies", ontologiesBaseURL=ontologiesBaseUrl)
